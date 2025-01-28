@@ -22,3 +22,6 @@ The IATA/ICAO list data is licensed under [Creative Commons Attribution-ShareAli
 IATA is a registered trademark of International Air Transport Association.   
 ICAO is a registered trademark of International Civil Aviation Organization.   
 All other product names mentioned on this repository may be trademarks or registered trademarks of their respective companies.
+
+
+As per 29-01-2025: This can be used for airport location pinpoints for the SkyLines project through GeoSynthAI.
